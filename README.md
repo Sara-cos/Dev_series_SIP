@@ -1,3 +1,5 @@
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/77844663/152640646-dbe64ea9-9c12-4ef3-823f-ad24d9a2a3ab.png">
+
 # Machine Learning & Green Tech
 
 This respository consists of a series of blog posts on **Azure Machine Learning Services** and how they can be leveraged to create ground breaking solutions to major problems in the field of **Agriculture, Forestry, E-Waste** and related fields.<br/><br/>
