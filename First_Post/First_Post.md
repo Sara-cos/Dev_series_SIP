@@ -69,10 +69,6 @@ If we've still got out math skills right, we notice we've not only managed to re
 
 Here's a statistical overview for you math geeks out there.
 
-<div align="center">
-<br/><img src="Azure_ML_Statisticals.png" height="80%" width="100%"/><br/><br/>
-</div>
-
 Now, Let's talk you through a few more features of Azure ML.
 
 ## Features of Azure ML
