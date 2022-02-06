@@ -29,7 +29,7 @@ The catch is when you've got to take immense time and effort in building an ***M
 
 Well, so where's the solution ? Don't you worry, ***Microsoft Azure Machine Learning*** has got you covered !! 🛡️
 
-# Azure Machine Learning
+# Azure Machine Learning 🧠
 
 <div align="center">
 <img src="Azure_Machine_Learning.png" height="80%" width="100%"/><br/><br/>
@@ -65,4 +65,15 @@ Now that we've layed out the entire process, allow us to show you how Azure ML c
 3. **Validate and Deploy** - Train and deploy models on Azure's robust infrastructure with ***Automated Pipelines and CI/CD***, as well as gain access to containers filled with Pre-built images and model repositories to share and track progress.
 4. **Manage and Monitor** - Track, log and analyze your models, backed up by a plethora of security services and error analyzers. 🥇<br/>
 
-If we've still got out math skills right, we notice we've not only managed to reduce the stages of developing a ML Model, but have managed to do so by adding variouss robust and highly useful functionalities in the process ! 🧮
+If we've still got out math skills right, we notice we've not only managed to reduce the stages of developing a ML Model, but have managed to do so by adding variouss robust and highly useful functionalities in the process ! 🧮<br/>
+
+Here's a statistical overview for you math geeks out there.
+
+<div align="center">
+<br/><img src="Azure_ML_Statistical.png" height="80%" width="100%"/><br/><br/>
+</div>
+
+Now, Let's talk you through a few more features of Azure ML.
+
+## Features of Azure ML
+
