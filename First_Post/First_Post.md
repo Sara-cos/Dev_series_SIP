@@ -9,7 +9,7 @@ Now, to ***really*** update ourselves, we must truly understand what the word me
 
 and you guessed it right, its ***Machine Learning***. 🌟
 
-## What is Machine Learning ❔
+# What is Machine Learning ❔
 
 ***Machine Learning (ML)*** belongs to the field of ***Artificial Intelligence (AI)***, which provides computer systems with the ability to automatically learn and improve from experience without being manually programmed. It's as if we're building a smaller/scaled down version of the ***human brain*** or a part of it,  thus providing our computer with the ability to think, learn and take decisions on its own. 
 
@@ -29,7 +29,7 @@ The catch is when you've got to take immense time and effort in building an ***M
 
 Well, so where's the solution ? Don't you worry, ***Microsoft Azure Machine Learning*** has got you covered !! 🛡️
 
-## Azure Machine Learning
+# Azure Machine Learning
 
 <div align="center">
 <img src="Azure_Machine_Learning.png" height="80%" width="100%"/><br/><br/>
