@@ -31,15 +31,15 @@ Well, so where's the solution ? Don't you worry, ***Microsoft Azure Machine Lear
 
 # Azure Machine Learning 🧠
 
-<div align="center">
-<img src="Azure_Machine_Learning.png" height="80%" width="100%"/><br/><br/>
-</div>
-
 Before we get started with Azure's Machine Learning Services, let's talk a little about ***Azure***.
 
 The ***[Azure](https://azure.microsoft.com/en-us/)*** Cloud Platform is more than ***200 products and cloud services*** designed to help you bring new solutions to life—to solve today’s challenges and create the future. It helps you build, run and manage applications across multiple clouds, on-premises and at the edge, with the tools and frameworks of your choice.
 
 Amongst the various products and services offered by Azure, the one we're helping you master is called ***Azure Machine Learning Services***. 🧠
+
+<div align="center">
+<img src="Azure_Machine_Learning.png" height="80%" width="100%"/><br/><br/>
+</div>
 
 Before we deep dive into why you should consider using Azure ML in your end products, let's take a quick tour on the process of building an ML model. You would likely follow the steps mentioned below in order :- <br/>
 
@@ -75,5 +75,14 @@ Here's a statistical overview for you math geeks out there.
 
 Now, Let's talk you through a few more features of Azure ML.
 
-## Features of Azure ML
+## Features of Azure ML 🌟
+
+1. **Ease of use with a morale boost** - Azure ML has been designed to boost your productivity and help you achieve the most out of yourself. Features such as ***Collaborative Notebooks, Intellisense, Easy compute and Kernel Switching alongside Visual Studio Code and GitHub thereby enabling source control*** offer a rich and immersive development experience.
+2. **Plethora of ML development aids** - Azure ML offers a plethora of supporting tools such as ***Drag and Drop Machine Learning, Rapid Automation in Model creation, Model Interpretability alongside Robust and automated testing mechanisms*** and a lot more !.
+3. **Security** - Azure ML provides for model training transparency to improve model reliability and help take quick actions in identification and diagonosis of errors. It also provides for a central registry to store and track model data and metadata, with futher options for model development, training and testing log metrics. Not to mention the robust security services offered by Azure which has always got you and your data protected and shielded. 🛡️
+4. **Infrastructure** - Azure ML has always got you covered in case your ML model is bombarded with processing requests. To do this, it uses ***Autoscaling Compute - helps you scale up allocated resources dynamically by either sharing CPU and GPU clusters or by allocating additional resources, provided you've left a few pennies on your Azure account.***
+
+That's a lot of features !! Now, let's look into how Azure ML finds it's way to ***Green Technologies***.
+
+# Green Technologies and Azure ML
 
