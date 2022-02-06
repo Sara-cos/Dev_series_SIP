@@ -55,7 +55,7 @@ Before we deep dive into why you should consider using Azure ML in your end prod
 Now that we've layed out the entire process, allow us to show you how Azure ML changes your development lifecycle ❗<br/>
 
 <div align="center">
-<br/><img src="Brain.jpg" height="80%" width="100%"/><br/><br/>
+<br/><img src="Brain_vs_brain.png" height="80%" width="100%"/><br/><br/>
 </div>
 
 ## The Azure ML Way 🪟
