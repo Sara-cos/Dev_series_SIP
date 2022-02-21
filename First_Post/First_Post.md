@@ -1,17 +1,29 @@
-# The First Blog
+# Green Solutions with Azure Machine learning
+
+*The article covers the green solutions that can be possible with the help of azure machine learning. The blog is part of the green daily series.*
+
 <div align="center">
-<img src="Machine_Learning.jpg" height="80%" width="100%"/><br/><br/>
+<img src="greenhands.png" height="80%" width="100%"/><br/><br/>
 </div>
 
-From what we've seen, it seems to be a very common trend to pick up new words that we hear all around us and use them in our own conversations to feel updated ! This is very common in the field of technology too !!
+<!-- #### ---<Starting from the issues and then ml and azure and then solutions> -->
 
-Now, to ***really*** update ourselves, we must truly understand what the word means right ? Otherwise, we'd end up using it in pretty awkward situations. With that said, let's have a little talk on one amongst the most busiest words of the 21st Century in the field of technology, shall we ? 
+Climate, agriculture and oceans are some of the *green tags* where humanity is working together for reviving and solving the challenges that are already over the edge. Climate crisis, depleating species, marine lifes, carbon emissions, pollutions, agricultural efficiency etc are some of the challenges.
+Climate change is the biggest challenge in front of humankind and several efforts have been recorded in past.
 
+If we look out for technological tools & solutions that are part of those solutions, machine laerning has always been the count.
+
+<!-- From what we've seen, it seems to be a very common trend to pick up new words that we hear all around us and use them in our own conversations to feel updated ! This is very common in the field of technology too !! -->
+
+Now, to ***really*** update ourselves, we must truly understand what the word means, right ?
+With that said, let's have a walk around one amongst the most busiest words of the 21st Century in the field of technology,
 and you guessed it right, its ***Machine Learning***. 🌟
 
 # What is Machine Learning ❔
 
-***Machine Learning (ML)*** belongs to the field of ***Artificial Intelligence (AI)***, which provides computer systems with the ability to automatically learn and improve from experience without being manually programmed. It's as if we're building a smaller/scaled down version of the ***human brain*** or a part of it,  thus providing our computer with the ability to think, learn and take decisions on its own. 
+***Machine Learning (ML)*** belongs to the field of ***Artificial Intelligence (AI)***, which deals with predictions, learning through present data and making the machine to act without being explicitly programmed.
+
+<!-- which provides computer systems with the ability to automatically learn and improve from experience without being manually programmed>.It's as if we're trying to build a scaled down version of the ***human brain*** or a part of it, thus providing our computer with the ability to think, learn and take decisions on its own. -->
 
 <div align="center">
 <br/><img src="Brain.jpg" height="80%" width="100%"/><br/><br/>
@@ -21,7 +33,7 @@ Now, if you've been in the field for quite sometime, you would have heard of ML 
 
 Okay, all of this seems great right ? So, where's the catch ❔❔ 
 
-The catch is when you've got to take immense time and effort in building an ***ML Model***. It's not always easy to gather the required ***Datasets*** to build a model, which equally agrees with the efforts of having to learn various ML Algorithms and choose the best, which then needs further optimization. There is also a lack of apt ***hardware*** on all devices needed to run heavy models and finally, the most important of these problems - Stackoverflow isn't your best friend when it comes to ML Models, as your usecase might be very specific, not commonly found on the internet.
+The catch is when you've got to take immense time and effort in building an ***ML Model***. It's not always easy to gather the required ***Datasets*** to build a model, which equally agrees with the efforts of having to learn various ML Algorithms and choose the best, which then needs further optimization. There is also a lack of apt ***hardware*** on all devices needed to run heavy models and finally, the most important of these problems - Stackoverflow isn't your best friend when it comes to ML Models, as your usecase might be very specific, not commonly found on the internet, ah that's difficult.
 
 <div align="center">
 <br/><img src="Problem.jpg"/><br/><br/>
@@ -60,7 +72,7 @@ Now that we've layed out the entire process, allow us to show you how Azure ML c
 
 ## The Azure ML Way 🪟
 
-1. **Access Pre-Built Datasets/Import your own** - Pick up one of the prebuilt databases or import one of your own. Managing data has never been easier with ***Azure's strong cloud infrastructure***, supported by compatibility with various databases - ***CosmosDB or other third party databases***.
+1. **Access Pre-Built Datasets/Import your own** - Pick up one of the prebuilt databases or import one of your own. Managing data has never been easier with ***Azure's strong cloud infrastructure***, supported by compatibility with various databases - ***Azure CosmosDB or other third party databases***.
 2. **Build and Train Models** - Use ***Visual Studio Code and GitHub*** to make your task of building the model smoooooooth along with capabilities to ***Automatically train and tune accurate models***, along with built-in support for all Open-source libraries and frameworks - Scikit-learn, PyTorch, etc.
 3. **Validate and Deploy** - Train and deploy models on Azure's robust infrastructure with ***Automated Pipelines and CI/CD***, as well as gain access to containers filled with Pre-built images and model repositories to share and track progress.
 4. **Manage and Monitor** - Track, log and analyze your models, backed up by a plethora of security services and error analyzers. 🥇<br/>
@@ -84,5 +96,15 @@ Now, Let's talk you through a few more features of Azure ML.
 
 That's a lot of features !! Now, let's look into how Azure ML finds it's way to ***Green Technologies***.
 
-# Green Technologies and Azure ML
+# Green solutions and Azure ML
+
+By green solutions we mean a vast range of technological solutions that are part or can possibaly facilitate the efforts and actions.
+
+If we look at climate actions and efforts, models can help hugely in the part of predictions with the existing data or building and deploying end- to-end pipeline for real time predictions and results.
+Like having models to predict the gaseous release in forest is result of wild fire before it gains momentum and spread.
+
+In agriculture, we can use models to predict the land fertility or providing details on what should be cultivated for what soil type...
+
+In the next few blogs in this series we will walk through some 
+solution and see it working with help of Azure ML services. 
 
