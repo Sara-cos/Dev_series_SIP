@@ -1,5 +1,5 @@
-# Second Blog Post
-We read through our previous [blog post](llinktoprevblogpost) and realized it was *All Talk and No Show*, right ⁉️
+# Let's Prove It !
+We read through our previous [blog post](https://github.com/Sara-cos/Dev_series_SIP/blob/drafts/First_Post/First_Post.md) and realized it was *All Talk and No Show*, right ⁉️
 
 <div align="center">
 	<img src="./All Talk No Show.png" height="100%" width="100%"/><br/><br/>
