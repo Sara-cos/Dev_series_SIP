@@ -108,3 +108,4 @@ In agriculture, we can use models to predict the land fertility or providing det
 
 In the next few blogs in this series we will walk through some solutions and see it working with help of Azure ML services. 
 
+---
