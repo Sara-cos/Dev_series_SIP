@@ -1,14 +1,16 @@
 # Second Blog Post
 We read through our previous [blog post](llinktoprevblogpost) and realized it was *All Talk and No Show*, right ⁉️
 
-![[All Talk No Show.png]]
+<div align="center">
+	<img src="./All Talk No Show.png" height="100%" width="100%"/><br/><br/>
+</div>
 
 The list of benefits Azure ML provides over traditional ML methodologies can go on forever, but how do we gain your **Trust** on the topic at hand ❓
 
 *Well, kindly bear with us as we try to give our **Best Shot** at proving all the talk we made on the previous blog post.*
 
 <div align="center">
-	<img src="C:\Manab\Do Not Delete\Manab Biswas\Personal\Obsidian_Notes\Personal Notes\MLSA\Quarterly SIP - Dev.to Blogs\Post 2\Trust.png"/>
+	<img src="./Trust.png"/><br/><br/>
 </div>
 
 We thus bring to you, a comparison on the development procedure of a **Convolutional Neural Network (CNN)** - a ***Deep Learning Model*** (subset of Machine Learning) using two different sets of methodologies:
@@ -16,16 +18,18 @@ We thus bring to you, a comparison on the development procedure of a **Convoluti
 - ***Traditional Methodology*** - Importing **Python** libraries, **Dataset collection-preprocessing**, breaking our heads over it, etc.
 
 - ***Azure ML Methodology*** - Easy tasks, Easier tasks, Way more Easier tasks, etc.
-
+<br/><br/>
 
 ## Traditional Methodology 🧠
 Below is a step-by-step approach on how we developed a **CNN Model**, which performs the task of **Object Recognition, Classification** and **Detection**.
 
-We have used the [**cifar10**]([cifar10  |  TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/cifar10)) Dataset to Train the Model, which provides it with the capability to recognize and classify **10 Different Classes** of objects.
+We have used the **[cifar10](https://www.tensorflow.org/datasets/catalog/cifar10)** Dataset to Train the Model, which provides it with the capability to recognize and classify **10 Different Classes** of objects.
 
-![[Object Recognition GitHub Repo.png]]
+<div align="center">
+	<img src="./Object Recognition GitHub Repo.png" height="100%" width="100%"/><br/><br/>
+</div>
 
-[This]([Manab784/Object-Recognition-and-Classification-System: Object Recognition And Classification System - Recognition of objects in the images fed to the program via the GUI along with Live Object Detection. (github.com)](https://github.com/Manab784/Object-Recognition-and-Classification-System)) is the link to the **GitHub Repository** containing all the required code for building the Model.
+[This](https://github.com/Manab784/Object-Recognition-and-Classification-System) is the link to the **GitHub Repository** containing all the required code for building the Model.
 
 ### *Step 1*
 
@@ -45,7 +49,7 @@ import PIL.Image as Image
 from cv2 import *
 ```
 
-The most **Important** and **Noteworthy** libraries are - **[Keras]([Keras: the Python deep learning API](https://keras.io/)), [cv2]([opencv-python · PyPI](https://pypi.org/project/opencv-python/)) and [NumPy]([NumPy](https://numpy.org/)).**
+The most **Important** and **Noteworthy** libraries are - **[Keras](https://keras.io/), [cv2](https://pypi.org/project/opencv-python/) and [NumPy](https://numpy.org/).**
 
 
 ### *Step 2*
@@ -166,10 +170,12 @@ model.save('CNN_ImageProcessing.h5')
 
 ***Phew ! That was so much work*** ‼
 
-![[Hard Work.png]]
+<div align="center">
+	<img src="./Hard Work.png" height="100%" width="100%"/><br/><br/>
+</div>
 
 Now, let's look into how you'd perform the same set of tasks (way lesser and easier tasks) using **Azure ML** 🎉
-
+<br/><br/>
 
 ## Easy (Azure ML) Methodology 🥂
 Below is a step-by-step approach to one of the most **Difficult** ways of using the user-friendly **Azure ML** Service - via the **Command Line Interface (CLI)** , and we are confident, you will still find this easier than the previous procedure. 
@@ -196,7 +202,7 @@ $ az group create -n ml -l southindia
 $ az ml workspace create -w mldws -g ml
 ```
 
-*Note: Remember to change the region to the **Azure Region** nearest to you. (Change 'southindia' to your desired region. Lookup this [Gist]([A list of the Azure regions · GitHub](https://gist.github.com/ausfestivus/04e55c7d80229069bf3bc75870630ec8)) by ***ausfestivus*** if you aren't sure about the region closest to you.)*
+*Note: Remember to change the region to the **Azure Region** nearest to you. (Change 'southindia' to your desired region. Lookup this [Gist](https://gist.github.com/ausfestivus/04e55c7d80229069bf3bc75870630ec8) by ***ausfestivus*** if you aren't sure about the region closest to you.)*
 
 
 ### *Step 3*
@@ -226,7 +232,9 @@ To run your code on this **Environment**, click on **Compute** -> **Create Compu
 - Choose from **Trained Datasets**, **Automated ML**, **Designer Drag and Drop Model Deployment Interface** and loads more. (More about these on upcoming blogs !)
 - Relax ‼️
 
-![[Easy.png]]
+<div align="center">
+	<img src="./Easy.png" height="100%" width="100%"/><br/><br/>
+</div>
 
 ***If we're doing the right math***, not only is it way easier to create a Model using Azure ML, but the lines of code reduce drastically too !
 
