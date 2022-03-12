@@ -100,11 +100,9 @@ That's a lot of features !! Now, let's look into how Azure ML finds it's way to 
 
 By green solutions we mean a vast range of technological solutions that are part or can possibly facilitate the efforts and actions.
 
-If we look at climate actions and efforts, models can help hugely in the part of predictions with the existing data or building and deploying end- to-end pipeline for real time predictions and results.
-
-Like having models to predict the gaseous release in s forest, which is a result of wild fire, before it gains momentum and spread.
-
-In agriculture, we can use models to predict the land fertility or providing details on what should be cultivated for what soil type...
+- If we look at climate actions and efforts, models can help hugely in the part of predictions with the existing data or building and deploying end- to-end pipeline for real time predictions and results.
+- Like having models to predict the gaseous release in s forest, which is a result of wild fire, before it gains momentum and spread.
+- In agriculture, we can use models to predict the land fertility or providing details on what should be cultivated for what soil type...
 
 In the next few blogs in this series we will walk through some solutions and see it working with help of Azure ML services. 
 
