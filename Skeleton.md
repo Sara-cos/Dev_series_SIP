@@ -1,0 +1,1 @@
+## Skeleton For Blog Posts
