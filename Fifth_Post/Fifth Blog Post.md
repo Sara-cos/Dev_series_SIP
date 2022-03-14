@@ -1,16 +1,21 @@
-# Fifth Blog Post
+# Azure ML SDK for Python
 In the last couple of blog posts, we guided you through a few ways to develop **ML Models** using **Azure ML Products & Services** such as **[Automated ML](linktopost3)** and **[Designer](linktopost4)**.
 
 Bear with us, as we guide you through another methodology to develop ML Models; *Data Scientists* and *AI Developers*, this one's crafted specially for you - Develop ML Models using the **Azure Machine Learning SDK for Python**.
 
-![[Azure ML Python SDK Proccedure.png]]
+<div>
+	<img src="./Azure ML Python SDK Proccedure.png" height="100%" width="100%"/><br/><br/>
+</div>
 
 Before we guide you through an expansive procedure on the development and deployment of a ML Model using the Azure ML SDK for Python, let's talk a little about the service at hand.
 
 ## What is the Azure ML SDK for Python ❓
 Interacting with the Azure ML service has never been easier. The Azure ML SDK lets you interact with the service from any **Python Environment** - including **Jupyter Notebooks, Visual Studio Code** or your favorite **IDE**.
 
-![[Azure ML.png]]
+
+<div>
+	<img src="./Azure ML.png" height="100%" width="100%"/><br/><br/>
+</div>
 
 A few features of the SDK, which make your experience *Smoooooooooth* are as follows:
 
@@ -29,7 +34,10 @@ The Model we chose to build deals with **Crop Recognition**. It performs the bas
 
 The Model chosen here, is a **Convolutional Neural Network (CNN)** which falls under the category of **Deep Learning Models**, a subset of **Machine Learning**.
 
-![[Crop Recognition System GitHub Repo.png]]
+
+<div>
+	<img src="./Crop Recognition System GitHub Repo.png" height="100%" width="100%"/><br/><br/>
+</div>
 
 [This](https://github.com/Manab784/Crop_Recognition_System) is the link to the **GitHub Repository** containing all the required code for building the Model.
 
@@ -80,7 +88,10 @@ ws_other_environment = Workspace.from_config(path="./file-path/ws_config.json")
 
 Download the latest release from [here](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli).
 
-![[Azure CLI Download.png]]
+
+<div>
+	<img src="./Azure CLI Download.png" height="100%" width="100%"/><br/><br/>
+</div>
 
 Then, add the Azure ML CLI Extension, by running the following command:
 
@@ -103,7 +114,9 @@ All Model Building related activities will be performed via the Experiment Objec
 
 #### *Don't give up, You're halfway there !!*
 
-![[Coding.jpg]]
+<div>
+	<img src="./Coding.jpg" height="100%" width="100%"/><br/><br/>
+</div>
 
 ### *Step 4*
 ***Developing your Model***
@@ -170,7 +183,7 @@ model.download(target_dir=os.getcwd()) #Downloads the Model into the pwd
 
 
 ### *Step 6*
-***Deploying your Model
+***Deploying your Model***
 
 With all the work done, it's time to deploy ‼️
 
@@ -188,7 +201,9 @@ service = Model.deploy(workspace = ws,
 
 ***YAY !*** Your Model is ready to go !!
 
-![[Celebration.png]]
+<div>
+	<img src="./Celebration.png" height="100%" width="100%"/><br/><br/>
+</div>
 
 Those were a few interesting steps !! We're sure all of you can't wait to explore and test these steps on your own 🎊
 
