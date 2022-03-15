@@ -128,3 +128,5 @@ It took few minutes to deploy this model (deployment state became *Healthy*). In
 ![](endpoint-consume.png)
 
 After using API's in their web service, *The Green Team* provides **Forest Cover Type Predictor** around the world.
+
+---
