@@ -1,5 +1,5 @@
 # Azure ML SDK for Python
-In the last couple of blog posts, we guided you through a few ways to develop **ML Models** using **Azure ML Products & Services** such as **[Automated ML](linktopost3)** and **[Designer](linktopost4)**.
+In the last couple of blog posts, we guided you through a few ways to develop **ML Models** using **Azure ML Products & Services** such as **[Automated ML](../Third_Post/Third_Post.md)** and **[Designer](linktopost4)**.
 
 Bear with us, as we guide you through another methodology to develop ML Models; *Data Scientists* and *AI Developers*, this one's crafted specially for you - Develop ML Models using the **Azure Machine Learning SDK for Python**.
 
