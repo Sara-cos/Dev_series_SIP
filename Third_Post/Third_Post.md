@@ -1,12 +1,14 @@
-# How Automated ML help decide Forest Cover Type?
+# How Automated ML helps decide Forest Cover Type?
 
-## Let's me tell a story (Fiction) 🌳
-*The Green Team* spent half of an year collecting data of **forest cover types** and their geographic information (elevation, slope, solid, etc.). They want to build a machine learning model using these data, which output the suitable forest cover type with given geographic features. But **they have little programming experience, and only know basic idea of machine learning**.  
+## Let me tell a story (Fiction) 🌳
+*The Green Team* spent half of an year collecting data of **forest cover types** and their geographic information (elevation, slope, solid, etc.). They want to build a machine learning model using these data, which output the suitable forest cover type with given geographic features. But **they have little programming experience, and only know basic ideas of machine learning**.  
 Fortunately, they reach out for **[Azure Automated ML](https://azure.microsoft.com/en-us/services/machine-learning/automatedml/#features)**.
+
 ![Picture of Roosevelt National Forest](forest.jpg)
 
 ## What is Automated ML? 🤖
 **[Azure Automated ML](https://azure.microsoft.com/en-us/services/machine-learning/automatedml/#features)** empowers you to build amazing machine learning models and applications rapidly without any code. It rapidly iterates over many combinations of algorithms and hyper-parameters to help you find the best model based on the metric of your choosing.
+
 ![How Automated ML works](auto-ml.jpg)
 
 With Azure Automated ML, you will:
@@ -18,12 +20,14 @@ With Azure Automated ML, you will:
 ## Let's walk through how *The Green Team* solved their problem. 🐾
 
 *The Green Team* used **Azure Automated ML** to build a **Forest Cover Type Predictor** model. It predicts the suitable forest cover type based on geographic features.
+
 ![Azure Machine Learning Studio](az-ml-studio.png)
 
 ### Step 1: Create ***Compute Resource*** 💻
 
 **Azure Machine Learning** is a platform for training and managing machine learning models, and we need compute to run the training process.  
 *The Green Team* navigated to [Azure Machine Learning Studio](https://ml.azure.com/), and under **Compute** page, creating a **Compute Cluster** resource.
+
 ![](compute-resource.png)
 
 ### Step 2: Upload ***Dataset*** 🧊
@@ -89,17 +93,22 @@ The experiment started automatically. *The Green Team* then took a rest, waiting
 ### Step 4: Review the best model 🥇
 
 A few hours later, the experiment finished with the best model (other models are available as well). *The Green Team* checked this awesome model in the *Details* tab. 
+
 ![](result.png)
 
 **Clicking the best model's name** (StandardScalerWrapper, RandomForest), they got more information -- explanations, metrics, etc. -- about the model.  
+
 ![](model-details.png)
 
 The **top-4 important features** of model are Elevation, Hillshade_9am, Horizontal_Distance, and Hillshade_3pm. These might be the dominant features that deciding forest cover type.
+
 ![](explain.png)
 
 
 In *Metrics* tab, they got more details of metric, like [ROC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic) and [Confusion Matrix](https://en.wikipedia.org/wiki/Confusion_matrix).
+
 ![](roc.png)
+
 ![](confusion-matrix.png)
 
 ### Step 5: Deploy a model as a service 📢
@@ -115,6 +124,9 @@ In best model's detail page, *The Green Team* **Deployed it to web service** wit
 ![](deploy-1.png)
 
 It took few minutes to deploy this model (deployment state became *Healthy*). In the **Endpoints** page, *The Green Team* get the RESTful API under **Consume** tab.
+
 ![](endpoint-consume.png)
 
-After using api in their web service, *The Green Team* provides **Forest Cover Type Predictor** around the world.
+After using API's in their web service, *The Green Team* provides **Forest Cover Type Predictor** around the world.
+
+---
