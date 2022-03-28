@@ -54,7 +54,7 @@ Let's review these products in general.
 
 It iterates over many combinations of algorithms and hyper-parameters to help you find the best model based on a success metric of your choosing.
 
-Follow ***[How Automated ML helps decide Forest Cover Type?](../Third_Post/Third_Post.md)*** to build your Automated ML application.
+Follow ***[How Automated ML helps decide Forest Cover Type?](../Third_Post/)*** to build your Automated ML application.
 
 To learn more:
 
