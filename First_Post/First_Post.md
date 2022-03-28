@@ -33,7 +33,7 @@ Now, if you've been in the field for quite some time, you would have heard of ML
 
 Okay, all of this seems great right ? So, where's the catch ❔❔ 
 
-The catch is when you've got to take immense time and effort in building an ***ML Model***. It's not always easy to gather the required ***Datasets*** to build a model, which equally agrees with the efforts of having to learn various ML Algorithms and choose the best, which then needs further optimization. There is also a lack of apt ***hardware*** on all devices needed to run heavy models and finally, the most important of these problems - Stackoverflow isn't your best friend when it comes to ML Models, as your use case might be very specific, not commonly found on the internet, ah that's difficult.
+The catch is when you've got to take immense time and effort in building an ***ML Model***. It's not always easy to gather the required ***Datasets*** to build a model, which equally agrees with the efforts of having to learn various ML Algorithms and choose the best, which then needs further optimization. There is also a lack of apt ***hardware*** on all devices needed to run heavy models and finally, the most important of these problems - Stackoverflow isn't your best friend when it comes to ML Models, as your use case might be very specific, not commonly found on the internet, ah that's difficult? right?
 
 <div align="center">
 <br/><img src="Problem.jpg"/><br/><br/>
