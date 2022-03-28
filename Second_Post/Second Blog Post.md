@@ -1,17 +1,10 @@
 # Let's Prove It !
-We read through our previous [blog post](https://github.com/Sara-cos/Dev_series_SIP/blob/drafts/First_Post/First_Post.md) and realized it was *All Talk and No Show*, right ⁉️
 
-<div align="center">
-	<img src="./All Talk No Show.png" height="100%" width="100%"/><br/><br/>
-</div>
+Ecological scientists have collected abundant data: climate change, underground water movement, air condition, etc. With machine learning, we can learn knowledge from those data, which will help solve environmental problems.
 
-The list of benefits Azure ML provides over traditional ML methodologies can go on forever, but how do we gain your **Trust** on the topic at hand ❓
+![Environmental change with ML](./environment_change_with_ML.jpg)
 
-*Well, kindly bear with us as we try to give our **Best Shot** at proving all the talk we made on the previous blog post.*
-
-<div align="center">
-	<img src="./Trust.png"/><br/><br/>
-</div>
+Most of the time, machine learning means complex mathematics concepts and many lines of code, which creeps many people out. **But with Azure Machine Learning, your task will go easier.**
 
 We thus bring to you, a comparison on the development procedure of a **Convolutional Neural Network (CNN)** - a ***Deep Learning Model*** (subset of Machine Learning) using two different sets of methodologies:
 
