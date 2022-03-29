@@ -32,7 +32,7 @@ With Azure Automated ML, you will:
 
 ### Step 2: Upload ***Dataset*** 🧊
 
-> This dataset comes from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Covertype). You can check out the website for more details.
+> This dataset comes from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Covertype). You can download the csv file from [Kaggle - Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
 
 In Azure Machine Learning, data for model training and other operations is usually encapsulated in an object called a dataset.
 

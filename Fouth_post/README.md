@@ -1,10 +1,12 @@
-# Machine Learning Model using Designer and low-code enviornment
+# An low-code way to predict cotton prices—Azure ML Designer
+
+*Have you ever been afraid of writing code, dealing with incorrect data, or studying ML algorithms? **Your work will be easy with Azure ML Designer!***
 
 The designer provides a great approach with low code solutions that help the coders the non coders to work and build models with minimal knowledge.
 
 ![](/Fouth_post/exdesigner.jpg)
 
-The blog will give a small example of implementing the model using the designer which provides the drag and drop options for convinient model building and evaluations.
+The blog will give a small example of implementing the model using the designer which provides the drag and drop options for convenient model building and evaluations.
 
 ## The dataset
 
@@ -21,8 +23,6 @@ But we want this to be challenging, leaving the dataset to you for implementing 
 ## Let's see the simple implementation of a sample dataset in designer
 
 The dataset is automobile price prediction, and its just a sample dataset. 
-
-![](/Fouth_post/imple.jpg)
 
 The completed path will look like this ...
 
@@ -41,7 +41,7 @@ The model has it own details and run logs in train tab in designer ...
 
 ![](/Fouth_post/5.jpg)
 
-## Do some excercise
+## Do some exercise
 
 ![](/Fouth_post/your-turn-point.gif)
 
