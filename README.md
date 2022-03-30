@@ -9,7 +9,6 @@ Technological advancements have been flourishing at their absolute best througho
 
 ### The team:
 - Prasansha Satpathy
-- Radha Panchap
 - Wenwei Lin
 - Manab Biswas
 
