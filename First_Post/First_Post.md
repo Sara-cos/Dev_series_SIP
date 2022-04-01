@@ -13,8 +13,6 @@ Climate change is the biggest challenge in front of humankind and several effort
 
 If we look out for technological tools & solutions that are part of those efforts, machine learning has always been the count.
 
-<!-- From what we've seen, it seems to be a very common trend to pick up new words that we hear all around us and use them in our own conversations to feel updated ! This is very common in the field of technology too !! -->
-
 Now, to ***really*** update ourselves, we must truly understand what the word means, right ?
 With that said, let's have a walk around one amongst the busiest words of the 21st Century in the field of technology,
 and you guessed it right, it is ***Machine Learning***. 🌟
@@ -23,10 +21,10 @@ and you guessed it right, it is ***Machine Learning***. 🌟
 
 ***Machine Learning (ML)*** belongs to the field of ***Artificial Intelligence (AI)***, which deals with predictions, learning through present data and making the machine act without being explicitly programmed.
 
-<!-- which provides computer systems with the ability to automatically learn and improve from experience without being manually programmed>. It's as if we're trying to build a scaled-down version of the ***human brain*** or a part of it, thus providing our computer with the ability to think, learn and take decisions on its own. -->
+
 
 <div align="center">
-<br/><img src="Brain.jpg" height="80%" width="100%"/><br/><br/>
+<br/><img src="Brain.jpg" height="40%" width="50%"/><br/><br/>
 </div>
 
 Now, if you've been in the field for quite some time, you would have heard of ML and related ***ML Algorithms***. Machine learning uses algorithms to identify ***patterns*** within data and those patterns are then used to create a data ***model*** that can make predictions. With increased data and experience, the results of machine learning will be much more accurate like how humans improve with more practice.
